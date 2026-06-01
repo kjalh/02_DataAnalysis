@@ -2,6 +2,9 @@ class Node:
     def __init__(self):
         self.data 
         self.next
+
+    def node():
+        pass
     
 
 
@@ -16,11 +19,12 @@ class LinkedList:
         pass
 
     def find():
+        
+        while True if next != None else False:
+            pass
+        
         pass
 
 
 lin = Node
-
-
-
 
